@@ -59,13 +59,13 @@ This document also includes guidelines for reporting bugs.
 ## Documentation and demos
 
 The official documentation is hosted on [Read the Docs](https://docs.godotengine.org).
-It is maintained by the Godot community in its own [GitHub repository](https://github.com/godotengine/godot-docs).
+It is maintained by the Godot community in its own [GitHub repository](https://github.com/MadMax1960/wokedot-docs).
 
 The [class reference](https://docs.godotengine.org/en/latest/classes/)
 is also accessible from the Godot editor.
 
-We also maintain official demos in their own [GitHub repository](https://github.com/godotengine/godot-demo-projects)
-as well as a list of [awesome Godot community resources](https://github.com/godotengine/awesome-godot).
+We also maintain official demos in their own [GitHub repository](https://github.com/MadMax1960/wokedot-demo-projects)
+as well as a list of [awesome Godot community resources](https://github.com/MadMax1960/wokedot-awesome).
 
 There are also a number of other
 [learning resources](https://docs.godotengine.org/en/latest/community/tutorials.html)
